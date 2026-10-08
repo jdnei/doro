@@ -1,5 +1,5 @@
 
-# DoroCloud机场官方地址(2026年10月日8更新)
+# DoroCloud机场官方地址(2026年10月8日更新)
 DoroCloud机场官网地址</br>
 最新地址：[dorocloud.xyz](https://dorocloud.xyz/#/register?code=zm4KaAaT)</br>
 官方地址：[dorocloud.cn](https://dorocloud.cn)</br>
