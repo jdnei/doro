@@ -11,9 +11,11 @@ DoroCloud机场官网地址</br>
 
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 ## 邀请码
+`邀请码注册，解锁0元套餐（限1000人），此活动官方随时取消`
 ```bash
 zm4KaAaT
 ```
+![image](https://github.com/jdnei/doro/blob/main/doro/SCR-20261008-szak.png?raw=ture)</br>
 ## 优惠码/折扣码
 ```bash
 无
@@ -39,14 +41,14 @@ DoroCloud 的特点是线路类型丰富，包含 BGP、IX、公网中转、AWS 
 
 ## 📊 性能实测与分析
 #### 1.1联通晚高峰测速表现
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/doro/blob/main/doro/76529834759827cucc.jpg?raw=ture)</br>
 #### 1.2电信晚高峰测速表现
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/doro/blob/main/doro/834975284375ctcc.jpg?raw=ture)</br>
 #### 1.3移动晚高峰测速表现
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/doro/blob/main/doro/79854984389cmcc.jpg?raw=ture)</br>
 #### 2.流媒体解锁报告
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/doro/blob/main/doro/795234905839045test.png?raw=ture)</br>
 #### 3.AI解锁报告
-![image](?raw=ture)</br> 
+![image](https://github.com/jdnei/doro/blob/main/doro/78204395209ai.jpg?raw=ture)</br> 
 #### 4.落地入口分析
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/doro/blob/main/doro/84937523475ana.png?raw=ture)</br>
