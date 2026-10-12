@@ -40,12 +40,8 @@ DoroCloud 的特点是线路类型丰富，包含 BGP、IX、公网中转、AWS 
 | doro 专属，勿拍 | — | 月付 | ¥1000 / 月 | — | — | 专属套餐，普通用户勿拍 |
 
 ## 📊 性能实测与分析
-#### 1.1联通晚高峰测速表现
-![image](https://github.com/jdnei/doro/blob/main/doro/76529834759827cucc.jpg?raw=ture)</br>
-#### 1.2电信晚高峰测速表现
-![image](https://github.com/jdnei/doro/blob/main/doro/834975284375ctcc.jpg?raw=ture)</br>
-#### 1.3移动晚高峰测速表现
-![image](https://github.com/jdnei/doro/blob/main/doro/79854984389cmcc.jpg?raw=ture)</br>
+#### 1.电信晚高峰测速表现
+![image](https://github.com/jdnei/doro/blob/main/doro/43875298475808375newctcc.png?raw=ture)</br>
 #### 2.流媒体解锁报告
 ![image](https://github.com/jdnei/doro/blob/main/doro/795234905839045test.png?raw=ture)</br>
 #### 3.AI解锁报告
