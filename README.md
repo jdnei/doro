@@ -1,8 +1,8 @@
 
 # DoroCloud机场官方地址(2026年10月29日更新)
 DoroCloud机场官网地址</br>
-最新地址：[dorocloud.xyz](https://dorocloud.cn/#/register?code=KRM8WqsP)</br>
-官方地址：[dorocloud.cn](https://dorocloud.cn)</br>
+最新地址：[dorocloud.xyz](https://dorocloud.cn/#/register?code=LLlUeLMa)</br>
+官方地址：[dorocloud.xyz](https://dorocloud.cn)</br>
 
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
@@ -13,7 +13,7 @@ DoroCloud机场官网地址</br>
 ## 邀请码
 `邀请码注册，解锁0元套餐（限1000人），此活动官方随时取消`
 ```bash
-KRM8WqsP
+LLlUeLMa
 ```
 ![image](https://github.com/jdnei/doro/blob/main/doro/SCR-20261008-szak.png?raw=ture)</br>
 ## 优惠码/折扣码
