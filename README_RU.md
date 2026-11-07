@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный сайт DoroCloud VPN (обновлено 6 ноября 2026)
+# Официальный сайт DoroCloud VPN (обновлено 7 ноября 2026)
 
 Официальный сайт VPN-сервиса DoroCloud<br>
 Новый адрес: [dorocloud.cn](https://to.iix.im/doro01)<br>
