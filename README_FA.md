@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# آدرس رسمی VPN دوروکلاد (DoroCloud) -(به‌روزرسانی 7 نوامبر 2026)
+# آدرس رسمی VPN دوروکلاد (DoroCloud) -(به‌روزرسانی 8 نوامبر 2026)
 وب‌سایت رسمی VPN دوروکلاد (DoroCloud)<br>
 جدیدترین آدرس: [dorocloud.cn](https://to.iix.im/doro01)<br>
 آدرس رسمی: [dorocloud.xyz](https://to.iix.im/doro02)<br>
